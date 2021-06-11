@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maxinne-02
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
