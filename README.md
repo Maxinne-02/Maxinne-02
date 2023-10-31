@@ -1,2 +1,5 @@
-- 👋 Hi, I’m @Maxinne-02
-- 👀 I’m interested in Coding
+My name is Maxinne
+
+Studying Software Engineering in University
+
+Currently Learning C via books, courses , yt and uni
